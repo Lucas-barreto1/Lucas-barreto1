@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Lucas Barreto and i'm Fullstack Developer living in Brazil.
+
+My name is Lucas Barreto and i am a student and Developer living in Brazil.
 
 - 💻 I love the programming and the challenges it encountered.
 
