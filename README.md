@@ -2,7 +2,7 @@
 
 **Software Developer**
 
-My name is Lucas Barreto and i am a student and Developer living in Brazil.
+**My name is Lucas Barreto and i am a student and Developer living in Brazil.**
 
 **_💻 I love the programming and the challenges it encountered._**
 
