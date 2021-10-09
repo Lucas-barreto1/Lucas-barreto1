@@ -17,13 +17,13 @@
 
 ### Main technologies:
 <p align="left">
-<code><img title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img title="Typescript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" /></code>
-<code><img title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code><img title="NextJS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/></code>
-<code><img title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img title="Sass" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" /></code>
+<img title="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img title="Typescript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" />
+<img title="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img title="NextJS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
+<img title="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img title="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img title="Sass" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 </p>
 
 
