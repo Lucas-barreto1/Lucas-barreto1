@@ -27,10 +27,10 @@
 </p>
 
 
-<p align="center">
+<div style='display: flex; align-itens: center; justify-content: center'>
 <img src="https://github-readme-stats.vercel.app/api?username=Lucas-barreto1&show_icons=tru&theme=dracula" alt="Status" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-barreto1&layout=compact&show_icons=true&theme=dracula" alt="Langs" />
-</p>
+</div>
 
 
 
