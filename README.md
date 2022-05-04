@@ -1,19 +1,16 @@
 # Hi there 👋
 
-**Software Developer**
+**Front-end developer**
 
-**My name is Lucas Barreto and i am a student and Developer living in Brazil.**
+**I'm a front-end developer with knowledge of Javascript and its ecosystem, frameworks like NextJS and React Native, libraries like ReactJS, as well as HTML, CSS, always looking to keep the best user experiences.**
 
-**_💻 I love the programming and the challenges it encountered._**
-
-**_⚡ I am currently focused on web development._**
 
 ### How to reach me:
-
 [![Email badge](https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasviniciusbarreto25@gmail.com?subject=Hello)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/lucasbarreto1/)
-
 ---
+*Send me a message and I will be happy to talk further.*
+
 
 ### Main technologies:
 <p align="left">
@@ -26,10 +23,9 @@
 <img title="Sass" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 </p>
 
-
-<div style='display: flex; align-itens: center; justify-content: center'>
-<img height="150rem"  src="https://github-readme-stats.vercel.app/api?username=Lucas-barreto1&show_icons=tru&theme=dracula" alt="Status" />
-<img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-barreto1&layout=compact&show_icons=true&theme=dracula" alt="Langs" />
+<div>
+  <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=Lucas-barreto1&show_icons=true&theme=dark"/>
+  <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-barreto1&layout=compact&theme=dark"/>
 </div>
 
 
